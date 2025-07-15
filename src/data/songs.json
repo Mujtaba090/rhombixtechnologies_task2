@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Asim Azhar - Dard (Offic...Saleem Kunaal Vermaa",
+    "artist": "DJ Relax",
+    "file": "/music/1.mp3",
+    "cover": "/cover/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "AP Dhillon - Mere Dil (N... AP Dhillon New Song",
+    "artist": "EchoWave",
+    "file": "/music/2.mp3",
+    "cover": "/cover/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Abdul Hannan & Rovalio ",
+    "artist": "SynthStar",
+    "file": "/music/3.mp3",
+    "cover": "/cover/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Afreen afreen Nusrat Fateh Ali Khan YouTube",
+    "artist": "NightRide",
+    "file": "/music/4.mp3",
+    "cover": "/cover/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "AR Rahman - Tum Tak Ly... Dhanush Javed Ali",
+    "artist": "NatureSoundz",
+    "file": "/music/5.mp3",
+    "cover": "/cover/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ae Jazba-e-Dil Nayyar N...se South Asia - Vol",
+    "artist": "UrbanZen",
+    "file": "/music/6.mp3",
+    "cover": "/cover/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Aye khuda Murder 2 Full... Song Emraan Hashmi",
+    "artist": "GoldenHour",
+    "file": "/music/7.mp3",
+    "cover": "/cover/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Faasle - Kaavish & Quratulain Balouch",
+    "artist": "DreamPilot",
+    "file": "/music/8.mp3",
+    "cover": "/cover/8.jpg"
+  },
+  {
+    "id": 9,
+    "title":" (LYRICS)- JUDAAI SON...RUN D - BADLAPUR",
+    "artist": "CosmicDust",
+    "file": "/music/9.mp3",
+    "cover": "/cover/9.jpg"
+  },
+  {
+    "id": 10,
+    "title":"Tujhe Bhula Diya (Full S...poor Priyanka Chopra",
+    "artist": "ZenBeats",
+    "file": "/music/10.mp3",
+    "cover": "/cover/10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Bhar Do Jholi Meri FULL... Salman Khan Pritam",
+    "artist": "WildHarmonics",
+    "file": "/music/11.mp3",
+    "cover": "/cover/11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Dil Lagi (Original Soundtrack)",
+    "artist": "CalmGroove",
+    "file": "/music/12.mp3",
+    "cover": "/cover/12.jpg"
+  }
+]
